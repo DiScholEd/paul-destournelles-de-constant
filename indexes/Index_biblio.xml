@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?teipublisher template="bibliographies.html"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="fr">Index des bibliographies mentionnées dans l'édition numérique "Correspondance de Paul d'Estournelles de
+                    Constant"</title>
+                <title xml:lang="en">Index of bibliographies mentioned in the digital edition "Correspondance de Paul d'Estournelles de
+                    Constant"</title>
+                <funder>Ministry of Higher Education, Research and Innovation</funder>
+                <principal>
+                    <persName ref="#anne.baillot">
+                        <forename>Anne</forename>
+                        <surname>Baillot</surname>
+                    </persName>
+                    <affiliation>
+                        <orgName ref="#mans.uni">Le Mans Université</orgName>
+                        <address>
+                            <street>Avenue Olivier Messiaen</street>
+                            <postCode>72085</postCode>
+                            <settlement>Le Mans</settlement>
+                            <country key="FR">France</country>
+                        </address>
+                    </affiliation>
+                </principal>
+                <respStmt>
+                    <resp>Encoding by</resp>
+                    <persName>
+                        <forename>Floriane</forename>
+                        <surname>Chiffoleau</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Le Mans Université</authority>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/3.0/deed.en">Attribution 3.0 Unported (CC BY 3.0) </licence>
+                </availability>
+                <date when-iso="2021"/>
+            </publicationStmt>
+            <seriesStmt>
+                <title type="main">Correspondence of Paul d'Estournelles de Constant</title>
+            </seriesStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when-iso="2022-08-08" who="#floriane.chiffoleau">Added entries w0063 to w0069</change>
+            <change when-iso="2022-08-03" who="#floriane.chiffoleau">Added entries w0061 and w0062</change>
+            <change when-iso="2022-07-05" who="#floriane.chiffoleau">Added entry w0060</change>
+            <change when-iso="2022-06-10" who="#floriane.chiffoleau">Added entry w0059</change>
+            <change when-iso="2022-06-09" who="#floriane.chiffoleau">Added entries w0056 to w0058</change>
+            <change when-iso="2022-05-24" who="#floriane.chiffoleau">Added entries w0053 to w0055</change>
+            <change when-iso="2022-05-18" who="#floriane.chiffoleau">Added entries w0047 to w0052</change>
+            <change when-iso="2022-05-13" who="#floriane.chiffoleau">Added entries w0045 and w0046</change>
+            <change when-iso="2022-05-03" who="#floriane.chiffoleau">Added entries w0038 to w0044</change>
+            <change when-iso="2022-04-29" who="#floriane.chiffoleau">Added entries w0034 to w0037</change>
+            <change when-iso="2022-04-28" who="#floriane.chiffoleau">Added entry w0033</change>
+            <change when-iso="2022-04-05" who="#floriane.chiffoleau">Added entry w0032</change>
+            <change when-iso="2022-03-09" who="#floriane.chiffoleau">Added entries w0029, w0030 and w0031</change>
+            <change when-iso="2022-03-08" who="#floriane.chiffoleau">Added entry w0028</change>
+            <change when-iso="2022-02-28" who="#floriane.chiffoleau">Added entries w0025, w0026 and w0027</change>
+            <change when-iso="2022-02-25" who="#floriane.chiffoleau">Added entries w0023 and w0024</change>
+            <change when-iso="2022-02-03" who="#floriane.chiffoleau">Added entries w0021 and w0022</change>
+            <change when-iso="2022-01-05" who="#floriane.chiffoleau">Added entry w0019</change>
+            <change when-iso="2021-11-10" who="#floriane.chiffoleau">Addition of works w0002 to w0020</change>
+            <change when-iso="2020-05-25" who="#floriane.chiffoleau">Publication metadata changed</change>
+            <change when-iso="2020-05-04" who="#floriane.chiffoleau">Adding the english version</change>
+            <change when-iso="2020-03-25" who="#floriane.chiffoleau">Creation of the index</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct xml:id="w0001">
+                    <monogr>
+                        <author>AKHUND Nadine</author>
+                        <author>TISON Stéphane</author>
+                        <title level="m">En guerre pour la paix, 1914-1919</title>
+                        <title level="m" type="sub">Correspondance Paul d'Estournelles de Constant et Nicholas Murray-Butler</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Alma</publisher>
+                            <date when-iso="2018"/>
+                        </imprint>
+                        <biblScope unit="page">546</biblScope>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0002">
+                    <monogr>
+                        <title level="j">Atlantic Monthly</title>
+                        <imprint>
+                            <pubPlace>Washington D.C.</pubPlace>
+                            <date notBefore-iso="1857">1857-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0003">
+                    <monogr>
+                        <title level="j">Berliner Tageblatt</title>
+                        <imprint>
+                            <pubPlace>Berlin</pubPlace>
+                            <date notBefore-iso="1872" notAfter-iso="1939">1872-1939</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0004">
+                    <monogr>
+                        <title level="j">Le Figaro</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1826">1826-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0005">
+                    <monogr>
+                        <title level="j">Neue Zürcher Zeitung (Nouvelle gazette zurichoise)</title>
+                        <imprint>
+                            <pubPlace>Zurich</pubPlace>
+                            <date notBefore-iso="1780">1780-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0006">
+                    <monogr>
+                        <title level="j">Journal Officiel</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1869">1869-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0007">
+                    <monogr>
+                        <title level="j">Journal de Genève</title>
+                        <imprint>
+                            <pubPlace>Genève</pubPlace>
+                            <date notBefore-iso="1826" notAfter-iso="1998">1826-1998</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0008">
+                    <monogr>
+                        <title level="j">Journal de l'Ouest</title>
+                        <imprint>
+                            <pubPlace/>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0009">
+                    <monogr>
+                        <title level="j">Journal des Débats</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1789" notAfter-iso="1944">1789-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0010">
+                    <monogr>
+                        <title level="j">Journal Fléchois</title>
+                        <imprint>
+                            <pubPlace>La Flèche</pubPlace>
+                            <date notBefore-iso="1878" notAfter-iso="1942">1878-1942</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0011">
+                    <monogr>
+                        <title level="j">Journal français d'Alsace-Lorraine</title>
+                        <imprint>
+                            <pubPlace/>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0012">
+                    <monogr>
+                        <title level="j">L'Echo de Paris</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1884" notAfter-iso="1938">1884-1938</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0013">
+                    <monogr>
+                        <title level="j">L'Humanité</title>
+                        <imprint>
+                            <pubPlace>Saint-Denis</pubPlace>
+                            <date notBefore-iso="1904">1904-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0014">
+                    <monogr>
+                        <title level="j">l'Homme Enchaîné</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1913" notAfter-iso="1953">1913-1953</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0015">
+                    <monogr>
+                        <title level="j">l'Illustration</title>
+                        <imprint>
+                            <pubPlace>Paris/Saint-Mandé</pubPlace>
+                            <date notBefore-iso="1843" notAfter-iso="1944">1843-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0016">
+                    <monogr>
+                        <title level="j">Le Petit Journal</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1863" notAfter-iso="1944">1893-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0017">
+                    <monogr>
+                        <title level="j">Revue de Paris</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1829" notAfter-iso="1970">1829-1970</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0018">
+                    <monogr>
+                        <editor>François Buloz</editor>
+                        <title level="j">Revue des Deux-Mondes</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1829">1829-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0019">
+                    <monogr>
+                        <title>Le Temps</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1861" notAfter-iso="1942">1861-1942</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0020">
+                    <monogr>
+                        <title level="j">Revue hebdomadaire</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1892" notAfter-iso="1939">1892-1939</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0021">
+                    <monogr>
+                        <title level="j">Le Bonnet Rouge</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1913" notAfter-iso="1922">1913-1922</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0022">
+                    <monogr>
+                        <title level="j">Le Matin</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1883" notAfter-iso="1944">1883-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0023">
+                    <monogr>
+                        <title level="j">New York Times</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <date notBefore-iso="1851">1851-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0024">
+                    <monogr>
+                        <title level="j">Evening News</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <date notBefore-iso="1881" notAfter-iso="1980">1881-1980</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0025">
+                    <monogr>
+                        <title level="j">La Renaissance: politique, littéraire et artistique</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1913" notAfter-iso="1931">1913-1931</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0026">
+                    <monogr>
+                        <author>Grelling, Richard</author>
+                        <title level="m">J'accuse !</title>
+                        <title level="m" type="sub">von einem Deutschen</title>
+                        <imprint>
+                            <pubPlace>Lausanne</pubPlace>
+                            <publisher>Payot</publisher>
+                            <date when-iso="1915"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0027">
+                    <monogr>
+                        <title level="j">New York Tribune</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <date notBefore-iso="1841" notAfter-iso="1924">1841-1924</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0028">
+                    <monogr>
+                        <title level="j">Scientia</title>
+                        <imprint>
+                            <pubPlace>Bologna</pubPlace>
+                            <date notBefore-iso="1907" notAfter-iso="1988">1907-1988</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0029">
+                    <monogr>
+                        <author>Constant, Benjamin</author>
+                        <title level="m">De l'esprit de conquête et de l'usurpation dans leurs rapports avec la civilisation européenne</title>
+                        <imprint>
+                            <pubPlace>Hanovre</pubPlace>
+                            <date when-iso="1814"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0030">
+                    <monogr>
+                        <title level="j">The Living Church</title>
+                        <imprint>
+                            <pubPlace>Milwaukee</pubPlace>
+                            <date notBefore-iso="1879">1879-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0031">
+                    <monogr>
+                        <title level="j">Allgemeine Missions Zeitschrift</title>
+                        <imprint>
+                            <pubPlace>Berlin</pubPlace>
+                            <date notBefore-iso="1874" notAfter-iso="1923">1874-1923</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0032">
+                    <monogr>
+                        <title level="j">Le Gaulois</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1868" notAfter-iso="1929">1868-1929</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0033">
+                    <monogr>
+                        <title level="j">Carnet de la Semaine</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1915" notAfter-iso="1933">1915-1933</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0034">
+                    <monogr>
+                        <author>Molière</author>
+                        <title level="m">Le Bourgeois Gentilhomme</title>
+                        <imprint>
+                            <pubPlace>Versaille</pubPlace>
+                            <date when="1670">1670</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0035">
+                    <monogr>
+                        <author>Georges Feydeau</author>
+                        <title level="m">La Dame de chez Maxim</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date when="1899">1899</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0036">
+                    <monogr>
+                        <title level="j">La Vie féminine</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1914" notAfter-iso="1919">1914-1919</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0037">
+                    <monogr>
+                        <title level="j">Le Radical</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1881" notAfter-iso="1926">1881-1926</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0038">
+                    <monogr>
+                        <title level="j">La Presse</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1836" notAfter-iso="1952">1836-1952</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0039">
+                    <monogr>
+                        <title level="j">L'Intransigeant</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1880" notAfter-iso="1948">1880-1948</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0040">
+                    <monogr>
+                        <title level="j">La Liberté</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1865" notAfter-iso="1940">1865-1940</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0041">
+                    <monogr>
+                        <title level="j">Le Petit Parisien</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1876" notAfter-iso="1944">1876-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0042">
+                    <monogr>
+                        <title level="j">L'Information</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1899">1899-?</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0043">
+                    <monogr>
+                        <title level="j">L'Œuvre</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1904" notAfter-iso="1944">1904-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0044">
+                    <monogr>
+                        <title level="j">La Victoire</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1906">1906-?</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0045">
+                    <monogr>
+                        <title level="j">Le Pays</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1906">1917-1919</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0046">
+                    <monogr>
+                        <title level="j">Pall Mall Gazette</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <date notBefore-iso="1906">1865-1923</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0047">
+                    <monogr>
+                        <title level="j">Le Journal</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1892" notAfter-iso="1944">1865-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0048">
+                    <monogr>
+                        <title level="j">Le Rappel</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1869" notAfter-iso="1933">1869-1933</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0049">
+                    <monogr>
+                        <title level="j">Tribune de Genève</title>
+                        <imprint>
+                            <pubPlace>Geneva</pubPlace>
+                            <date notBefore-iso="1879">1879-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0050">
+                    <monogr>
+                        <title level="j">Wissen und Leben</title>
+                        <imprint>
+                            <pubPlace>Zurich</pubPlace>
+                            <date notBefore-iso="1907" notAfter-iso="1925">1907-1925</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0051">
+                    <monogr>
+                        <author>Butler, Nicholas Murray</author>
+                        <title level="m">Esprit International</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <date when-iso="1912"/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0052">
+                    <monogr>
+                        <title level="j">The Times</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <date notBefore-iso="1785">1785-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0053">
+                    <monogr>
+                        <title level="j">The Sun</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <date notBefore-iso="1833" notAfter-iso="1950">1833-1950</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0054">
+                    <monogr>
+                        <title level="j">Die Friedens-Wark</title>
+                        <imprint>
+                            <pubPlace>Berlin</pubPlace>
+                            <date notBefore-iso="1899" notAfter-iso="2017">1899-2017</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0055">
+                    <monogr>
+                        <author>Charles Baudelaire</author>
+                        <title level="m">Les fleurs du mal</title>
+                        <imprint>
+                            <pubPlace>Alençon</pubPlace>
+                            <date when="1857">1857</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0056">
+                    <monogr>
+                        <title level="j">Daily Chronicle</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <date notBefore-iso="1872" notAfter-iso="1930">1872-1930</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0057">
+                    <monogr>
+                        <author>Georges Bourdon</author>
+                        <title level="m" type="main">L'énigme allemande</title>
+                        <title type="sub">Une enquête chez les allemands, ce qu'ils pensent, ce qu'ils veulent, ce qu'ils peuvent</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date when="1913">1913</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0058">
+                    <monogr>
+                        <title level="j">Guide Michelin</title>
+                        <imprint>
+                            <date notBefore-iso="1900">1900-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0059">
+                    <monogr>
+                        <title level="j">Morning Post</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <date notBefore-iso="1772" notAfter-iso="1937">1772-1937</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0060">
+                    <monogr>
+                        <author>Estournelles de Constant, Paul d'</author>
+                        <title level="m">La politique française en Tunisie : le protectorat et ses origines (1854-1891)</title>
+                        <title level="m" type="sub">par P. H. X.</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Plon</publisher>
+                            <date when-iso="1891"/>
+                        </imprint>
+                        <biblScope unit="page">489</biblScope>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0061">
+                    <monogr>
+                        <title level="j">La Croix</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1883">1883-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0062">
+                    <monogr>
+                        <title level="j">The Review</title>
+                        <imprint>
+                            <pubPlace/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0063">
+                    <monogr>
+                        <title level="j">Annales de Géographie</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1891">1891-</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0064">
+                    <monogr>
+                        <author>Caillaux, Joseph</author>
+                        <title level="m">Agadir, Ma politique extérieure.</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Albin Michel</publisher>
+                            <date when-iso="1919"/>
+                        </imprint>
+                        <biblScope unit="page">243</biblScope>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0065">
+                    <monogr>
+                        <author>Percin (Général)</author>
+                        <title level="m">Lille</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Bernard Grasset</publisher>
+                            <date when-iso="1920"/>
+                        </imprint>
+                        <biblScope unit="page">328</biblScope>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0066">
+                    <monogr>
+                        <title level="j">Collier's</title>
+                        <imprint>
+                            <pubPlace>Springfield</pubPlace>
+                            <date notBefore-iso="1888" notAfter-iso="1957">1888-1957</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0067">
+                    <monogr>
+                        <title level="j">L'Opinion</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1907" notAfter-iso="1938">1907-1938</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0068">
+                    <monogr>
+                        <title level="j">L'Action française</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1908" notAfter-iso="1944">1908-1944</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="w0069">
+                    <monogr>
+                        <title level="j">Le Populaire</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <date notBefore-iso="1916" notAfter-iso="19170">1916-1970</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+            </listBibl>
+        </body>
+    </text>
+</TEI>
