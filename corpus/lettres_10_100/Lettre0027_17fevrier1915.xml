@@ -4,8 +4,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="en">Letter number 0027 from Paul d'Estournelles de Constant to Nicholas Murray Butler (February 17, 1915)</title>
-				<title xml:lang="fr">Lettre n°0027 de Paul d'Estournelles de Constant à Nicholas Murray Butler (17 février 1915)</title>
+				<title xml:lang="en">Letter number 27 from Paul d'Estournelles de Constant to Nicholas Murray Butler (February 17, 1915)</title>
+				<title xml:lang="fr">Lettre n°27 de Paul d'Estournelles de Constant à Nicholas Murray Butler (17 février 1915)</title>
 				<funder>Ministry of Higher Education, Research and Innovation</funder>
 				<principal>
 					<persName ref="#anne.baillot">
@@ -184,8 +184,8 @@
 					<placeName ref="https://www.geonames.org/5128581">New-York</placeName>
 				</correspAction>
 				<correspContext>
-					<ref target="Lettre0026_14février1915.xml" type="prev"/>
-					<ref target="Lettre0028_17février1915.xml" type="next"/>
+					<ref target="Lettre0026_14fevrier1915.xml" type="prev"/>
+					<ref target="Lettre0028_17fevrier1915.xml" type="next"/>
 				</correspContext>
 			</correspDesc>
 			<langUsage>

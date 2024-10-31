@@ -4,8 +4,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="en">Letter number 0083 from Paul d'Estournelles de Constant to Nicholas Murray Butler (September 7, 1915)</title>
-				<title xml:lang="fr">Lettre n°0083 de Paul d'Estournelles de Constant à Nicholas Murray Butler (7 septembre 1915)</title>
+				<title xml:lang="en">Letter number 83 from Paul d'Estournelles de Constant to Nicholas Murray Butler (September 7, 1915)</title>
+				<title xml:lang="fr">Lettre n°83 de Paul d'Estournelles de Constant à Nicholas Murray Butler (7 septembre 1915)</title>
 				<funder>Ministry of Higher Education, Research and Innovation</funder>
 				<principal>
 					<persName ref="#anne.baillot">
@@ -184,7 +184,7 @@
 					<placeName ref="https://www.geonames.org/5128581">New-York</placeName>
 				</correspAction>
 				<correspContext>
-					<ref target="Lettre0082_25août1915.xml" type="prev"/>
+					<ref target="Lettre0082_25aout1915.xml" type="prev"/>
 					<ref target="Lettre0084_8septembre1915.xml" type="next"/>
 				</correspContext>
 			</correspDesc>

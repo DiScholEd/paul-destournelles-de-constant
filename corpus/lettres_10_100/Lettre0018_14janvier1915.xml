@@ -4,8 +4,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="en">Letter number 0018 from Paul d'Estournelles de Constant to Nicholas Murray Butler (January 14, 1915)</title>
-				<title xml:lang="fr">Lettre n°0018 de Paul d'Estournelles de Constant à Nicholas Murray Butler (14 janvier 1915)</title>
+				<title xml:lang="en">Letter number 18 from Paul d'Estournelles de Constant to Nicholas Murray Butler (January 14, 1915)</title>
+				<title xml:lang="fr">Lettre n°18 de Paul d'Estournelles de Constant à Nicholas Murray Butler (14 janvier 1915)</title>
 				<funder>Ministry of Higher Education, Research and Innovation</funder>
 				<principal>
 					<persName ref="#anne.baillot">
@@ -185,7 +185,7 @@
 				</correspAction>
 				<correspContext>
 					<ref target="Lettre0017_9janvier1915.xml" type="prev"/>
-					<ref target="Lettre0019_22décembre1914.xml" type="next"/>
+					<ref target="Lettre0019_22decembre1914.xml" type="next"/>
 				</correspContext>
 			</correspDesc>
 			<langUsage>
